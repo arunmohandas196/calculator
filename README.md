@@ -1,5 +1,5 @@
 # Command Line RPN Calculator
-Implementation of a calulator using Reverse Polish Notation(RPN)
+Implementation of a calculator using Reverse Polish Notation(RPN)
 
 
 ### How to run
